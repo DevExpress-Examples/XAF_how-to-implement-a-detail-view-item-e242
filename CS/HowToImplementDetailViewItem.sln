@@ -1,0 +1,43 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToImplementDetailViewItem.Module", "HowToImplementDetailViewItem.Module\HowToImplementDetailViewItem.Module.csproj", "{143C257A-BA0E-43B9-8512-D330A3E40611}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToImplementDetailViewItem.Module.Win", "HowToImplementDetailViewItem.Module.Win\HowToImplementDetailViewItem.Module.Win.csproj", "{186F5011-4F65-49D7-A00D-1DE913E47929}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToImplementDetailViewItem.Win", "HowToImplementDetailViewItem.Win\HowToImplementDetailViewItem.Win.csproj", "{E3A969AF-8195-4C77-9C94-107DACCD4032}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{143C257A-BA0E-43B9-8512-D330A3E40611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143C257A-BA0E-43B9-8512-D330A3E40611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143C257A-BA0E-43B9-8512-D330A3E40611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143C257A-BA0E-43B9-8512-D330A3E40611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186F5011-4F65-49D7-A00D-1DE913E47929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186F5011-4F65-49D7-A00D-1DE913E47929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186F5011-4F65-49D7-A00D-1DE913E47929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186F5011-4F65-49D7-A00D-1DE913E47929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A969AF-8195-4C77-9C94-107DACCD4032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A969AF-8195-4C77-9C94-107DACCD4032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A969AF-8195-4C77-9C94-107DACCD4032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A969AF-8195-4C77-9C94-107DACCD4032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
