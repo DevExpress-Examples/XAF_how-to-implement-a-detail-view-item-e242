@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[ClassIconDetailItem.cs](./CS/HowToImplementDetailViewItem.Module.Win/ClassIconDetailItem.cs) (VB: [ClassIconDetailItem.vb](./VB/HowToImplementDetailViewItem.Module.Win/ClassIconDetailItem.vb))**
+* [WinModule.cs](./CS/HowToImplementDetailViewItem.Module.Win/WinModule.cs) (VB: [WinModule.vb](./VB/HowToImplementDetailViewItem.Module.Win/WinModule.vb))
+<!-- default file list end -->
 # How to Implement a Detail View Item
 
 
